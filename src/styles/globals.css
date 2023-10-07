@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+    font-family: "Yeongdeok_Blueroad";
+    font-style: normal;
+    font-weight: normal;
+    src:url('../assets/fonts/woff/Yeongdeok_Blueroad.woff')format('woff'),
+    url('../assets/fonts/woff2/Yeongdeok_Blueroad.woff2')format('woff2'),
+}
